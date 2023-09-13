@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    max-height: 1040px;
+    width: 100%;
+    padding: 20px;
+    background-color:rgb(0, 0, 177);
+    color: #fff;
+}
+
+.Formulario-Local {
+    margin: 20px;
+}
+
+.Formular label{
+    display: block;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 10px
+}
+
+form button {
+    width: 166px;
+    margin: 16px 0;
+    padding: 7px;
+    font-size: 17px;
+    background-color: green;
+    border: none;
+    color: #fff;
+    border-radius: 6px;
+}
